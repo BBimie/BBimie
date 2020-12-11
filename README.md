@@ -1,9 +1,4 @@
-### Hi there 👋 I'm Bimie fulltime TV Show binge watcher and I also write code on the side.
-
-<!--
-**BBimie/BBimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Bimie, fulltime TV Show binge watcher and I also write code on the side.
 
 - 🔭 I’m currently working on a Predictive Analytics Nanodegree from Udacity
 - 🌱 I’m currently learning how to use business intelligence tools like Tableau and PowerBI. I have some interesting vizzes on my [Tableau Public Profile](https://public.tableau.com/profile/bimbo.babatola#!/?newProfile=&activeTab=0)

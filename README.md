@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bimie, fulltime TV Show binge watcher and I also write code on the side.
 
-- 🔭 I’m currently working on a Predictive Analytics Nanodegree from Udacity
+- 🔭 I’m currently working as a financial and business data analyst
 - 🌱 I’m currently learning how to use business intelligence tools like Tableau and PowerBI. I have some interesting vizzes on my [Tableau Public Profile](https://public.tableau.com/profile/bimbo.babatola#!/?newProfile=&activeTab=0)
 - 👯 I’m looking to collaborate on open source Data Science and Machine Learning Projects
 - 🤔 I’m looking for help with arranging my life

@@ -10,4 +10,6 @@
 
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [Email](mailto:babatolatemi@gmail.com)
+
+
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/temitope-babatola) [![](https://img.shields.io/badge/Medium-Read_My_Articles-black)](https://bimie.medium.com)

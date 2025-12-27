@@ -1,12 +1,13 @@
-### Hi there 👋 I'm Bimie, fulltime TV Show binge watcher and I also write code on the side.
+### Hi there 👋 I'm Bimie, a full-time TV Show binge watcher, and I build data pipelines on the side.
+**Data Engineer | Analytics Engineer**
 
-- 🔭 I’m currently working as a data analyst
-- 🚀 I am transitioning into data engineering, so I am open to conversations and opportunities about data engineering.
-- 🌱 I have some interesting vizzes and dashboards on my [Tableau Public Profile](https://public.tableau.com/profile/bimbo.babatola#!/?newProfile=&activeTab=0)
-- 👯 I’m looking to collaborate on open source Data Science and Machine Learning Projects.
-- 🤔 I’m looking for help with arranging my life.
-- 💬 Ask me about Movies, Python, SQL, Data Analysis and Data Engineering.
-- 📫 How to reach me: [Email](mailto:babatolatemi@gmail.com), [Twitter](https://twitter.com/BimboBabatola)
+- 🛠️ Technical Stack: **Python, SQL, Apache Airflow, Kafka, Docker, AWS, Snowflake, dbt.**
+- 🌱 I’m currently exploring and understanding all the aspects of **Data Engineering**.
+- 👯 I’m open to collaborating on **Data Engineering** and **Open Source** projects.
+- 💬 Ask me about Movies, Python, SQL, Data Analytics and Data Engineering.
+- ⚡ Fun fact: When I'm not orchestrating DAGs, I'm likely binge-watching TV shows or solving puzzles.
+- Working on my portfolio website. Stay tuned!...
+
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My favorite things are solving silly puzzles, playing candy crush, watching movies all day and when I'm feeling down, I get lost on pinterest saving pictures and building unrealistic mood boards.
-- Finally, take a look at my [portfolio](https://github.com/BBimie/Bimbo-Babatola-Portfolio)
+- 📫 How to reach me: [Email](mailto:babatolatemi@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/temitope-babatola) [![](https://img.shields.io/badge/Medium-Read_My_Articles-black)](https://bimie.medium.com)

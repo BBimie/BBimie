@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bimie, a full-time TV Show binge watcher, and I build data pipelines on the side.
 **Data Engineer | Analytics Engineer**
 
-- 🛠️ Technical Stack: **Python, SQL, Apache Airflow, Kafka, Docker, AWS, Snowflake, dbt.**
+- 🛠️ Technical Stack: **Python, SQL, Airflow, Kafka, Docker, dbt, AWS, GCP, Snowflake, Clickhouse.**
 - 🌱 I’m currently exploring and understanding all the aspects of **Data Engineering**.
 - 👯 I’m open to collaborating on **Data Engineering** and **Open Source** projects.
 - 💬 Ask me about Movies, Python, SQL, Data Analytics and Data Engineering.
